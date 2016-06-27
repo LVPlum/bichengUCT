@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS `uctoo_shop_cart`;
+DROP TABLE IF EXISTS `uctoo_shop_coupon`;
+DROP TABLE IF EXISTS `uctoo_shop_delivery`;
+DROP TABLE IF EXISTS `uctoo_shop_messages`;
+DROP TABLE IF EXISTS `uctoo_shop_order`;
+DROP TABLE IF EXISTS `uctoo_shop_product`;
+DROP TABLE IF EXISTS `uctoo_shop_product_cats`;
+DROP TABLE IF EXISTS `uctoo_shop_product_comment`;
+DROP TABLE IF EXISTS `uctoo_shop_product_extra_info`;
+DROP TABLE IF EXISTS `uctoo_shop_product_sell`;
+DROP TABLE IF EXISTS `uctoo_shop_slides`;
+DROP TABLE IF EXISTS `uctoo_shop_user_address`;
+DROP TABLE IF EXISTS `uctoo_shop_user_coupon`;

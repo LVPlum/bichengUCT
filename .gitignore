@@ -1,0 +1,12 @@
+/Conf/common.php
+/Conf/user.php
+/Conf/install.lock
+/Runtime/*
+/*.sh
+/.idea
+/Application/Install/Data/install.lock
+/Runtime
+/_runtime
+/Data
+/Uploads
+/OcApi/oc_config.php
